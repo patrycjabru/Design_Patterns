@@ -1,0 +1,4 @@
+
+1squid:S1220""Move this file to a named package.
+hsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(û˜úƒ
+]squid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(û˜úƒ

@@ -1,5 +1,4 @@
 
-:squid:S1643"Use a StringBuilder instead.(¹¡É†8Ù½á›ò,
-:squid:S1643"Use a StringBuilder instead.(¹¡É†8“àè›ò,
-Gsquid:S1481")Remove this unused "data" local variable.(ýò¨Ú8“àè›ò,
-Vsquid:S1854"8Remove this useless assignment to local variable "data".(ýò¨Ú8“àè›ò,
+7squid:S1643"Use a StringBuilder instead.(“Æá58”ø‰³ò,
+\squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8”ø‰³ò,
+7squid:S1643"Use a StringBuilder instead.(“Æá58”ø‰³ò,

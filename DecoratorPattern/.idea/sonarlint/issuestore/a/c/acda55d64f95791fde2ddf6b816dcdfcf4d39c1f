@@ -1,0 +1,5 @@
+
+:squid:S1643"Use a StringBuilder instead.(Ή΅Ι†8Ω½α›ς,
+:squid:S1643"Use a StringBuilder instead.(Ή΅Ι†8“ΰθ›ς,
+Gsquid:S1481")Remove this unused "data" local variable.(ύς¨Ϊ8“ΰθ›ς,
+Vsquid:S1854"8Remove this useless assignment to local variable "data".(ύς¨Ϊ8“ΰθ›ς,

@@ -1,0 +1,18 @@
+
+„"squid:ClassVariableVisibilityCheck"QMake title a static final constant or non-public and provide accessors if needed.(Å¬õ8°‰èØö,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓêÑ»úÿÿÿÿ8å™ÔØö,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(°œÿûıÿÿÿÿ8ÿ€×Øö,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(½½„ë8¨ŒåØö,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÓÈ³8ûğÜØö,
+–"squid:ClassVariableVisibilityCheck"^Make loginOrRegisterBox a static final constant or non-public and provide accessors if needed.(ëæÜÙüÿÿÿÿ8ÛÖèØö,
+‘"squid:ClassVariableVisibilityCheck"YMake loginUsername a static final constant or non-public and provide accessors if needed.(¦şıÒıÿÿÿÿ8ÛÖèØö,
+Œ"squid:ClassVariableVisibilityCheck"YMake loginPassword a static final constant or non-public and provide accessors if needed.(Ã§Ö8ÛÖèØö,
+“"squid:ClassVariableVisibilityCheck"`Make registrationUsername a static final constant or non-public and provide accessors if needed.(Øé¨Ç8ÛÖèØö,
+˜"squid:ClassVariableVisibilityCheck"`Make registrationPassword a static final constant or non-public and provide accessors if needed.(ğœ”‚ıÿÿÿÿ8ÛÖèØö,
+"squid:ClassVariableVisibilityCheck"]Make registrationEmail a static final constant or non-public and provide accessors if needed.(Ô©¼ÿ8ÛÖèØö,
+„"squid:ClassVariableVisibilityCheck"QMake okBtn a static final constant or non-public and provide accessors if needed.(¼ÜòÅ8ÛÖèØö,
+ˆ"squid:ClassVariableVisibilityCheck"UMake cancelBtn a static final constant or non-public and provide accessors if needed.(»’’é8ÛÖèØö,
